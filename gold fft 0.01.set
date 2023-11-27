@@ -1,0 +1,17 @@
+MM_Mode=false
+MM_Set=0
+MagicNumber=111
+M4A1_SET=0
+Profit=0.5
+ProfitLoss=0.0
+StepPoint=300
+Slippage=5
+PowerLot=2
+Lots=0.01
+Use_Martingale=true
+Order_Martingale=1
+TPMartingale=200
+LotExponent=1.15
+Use_MaxOrder=true
+MaxOrderBuy=30
+MaxOrderSell=30
